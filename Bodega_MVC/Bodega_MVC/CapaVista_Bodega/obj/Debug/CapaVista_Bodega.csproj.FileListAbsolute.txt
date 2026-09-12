@@ -1,0 +1,13 @@
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaVista_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaVista_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaControlador_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaModelo_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaControlador_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\bin\Debug\CapaModelo_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.csproj.AssemblyReference.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.frmBodega.resources
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.csproj.GenerateResource.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVist.1E840AF7.Up2Date
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaVista_Bodega\obj\Debug\CapaVista_Bodega.pdb

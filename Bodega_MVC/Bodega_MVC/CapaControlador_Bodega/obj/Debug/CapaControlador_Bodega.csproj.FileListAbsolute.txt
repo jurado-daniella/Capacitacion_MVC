@@ -1,0 +1,9 @@
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\bin\Debug\CapaControlador_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\bin\Debug\CapaControlador_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\bin\Debug\CapaModelo_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\bin\Debug\CapaModelo_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\obj\Debug\CapaControlador_Bodega.csproj.AssemblyReference.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\obj\Debug\CapaControlador_Bodega.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\obj\Debug\CapaCont.8713FFCB.Up2Date
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\obj\Debug\CapaControlador_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaControlador_Bodega\obj\Debug\CapaControlador_Bodega.pdb

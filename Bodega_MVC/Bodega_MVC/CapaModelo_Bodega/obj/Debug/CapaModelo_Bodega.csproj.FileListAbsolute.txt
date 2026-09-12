@@ -1,0 +1,6 @@
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\bin\Debug\CapaModelo_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\bin\Debug\CapaModelo_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\obj\Debug\CapaModelo_Bodega.csproj.AssemblyReference.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\obj\Debug\CapaModelo_Bodega.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\obj\Debug\CapaModelo_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Bodega_MVC\CapaModelo_Bodega\obj\Debug\CapaModelo_Bodega.pdb

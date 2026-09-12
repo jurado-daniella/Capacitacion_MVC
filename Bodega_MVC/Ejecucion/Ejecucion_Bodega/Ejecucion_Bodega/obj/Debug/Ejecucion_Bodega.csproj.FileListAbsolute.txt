@@ -1,0 +1,16 @@
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\Ejecucion_Bodega.exe.config
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\Ejecucion_Bodega.exe
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\Ejecucion_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaVista_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaControlador_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaModelo_Bodega.dll
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaVista_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaControlador_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\bin\Debug\CapaModelo_Bodega.pdb
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.csproj.AssemblyReference.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.Properties.Resources.resources
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.csproj.GenerateResource.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucio.817876E6.Up2Date
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.exe
+C:\Users\jurad\Desktop\Bodega_MVC\Ejecucion\Ejecucion_Bodega\Ejecucion_Bodega\obj\Debug\Ejecucion_Bodega.pdb
